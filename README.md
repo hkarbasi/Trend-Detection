@@ -5,10 +5,12 @@ This project is to find topics and temporal trends in a corpus using LDA and Cox
 
 The entire work has been broken down to 7 python notebooks as following:
 
-* Text preprocssing: It takes the text files from different folders set in the config files and checks the following:
+1. **Text preprocssing**
 
-** All files should have the same format.
-** I filters the data based on the date range set in config
+It takes the text files from different folders set in the config files and checks the following:
+  * All files should have the same format.
+  * It filters the data based on the date range set in config
+  
 
 
 
