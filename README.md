@@ -1,10 +1,13 @@
 # Trend-Detection
 Temporal trend detection using LDA
 
-This project is to 
+This project is to find topics and temporal trends in a corpus using LDA and Cox-Stuart trend test. It is a scalable and parallel framework and it can be used for large dataset as well. 
 
+The entire work has been broken down to 7 python notebooks as following:
 
-* 
+* Text preprocssing: It takes the text files from different folders set in the config files and checks the following:
+** All files should have the same format.
+** I filters the data based on the date range set in config
 
 
 
