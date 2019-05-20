@@ -70,7 +70,8 @@ The available notebooks are the result of Reddit.
 Both datasets are four years of data; (*1 Jan 2015- 1 Jan 2019*), 
  * Smaller one is StackExchange (DataScience)
  * Larger one is Reddit (9 DataScience Subreddits)
- Datasets can be found on ([my Google Drive](https://drive.google.com/open?id=1q8Dvm-54CgLj-bmVxD6i1hvRT_WhYhpV)) and you are welcome to download and experiment with them! :)
+
+
+Datasets can be found on ([my Google Drive](https://drive.google.com/open?id=1q8Dvm-54CgLj-bmVxD6i1hvRT_WhYhpV)) and you are welcome to download and experiment with them! :)
  
  
- Best
