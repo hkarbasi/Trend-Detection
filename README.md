@@ -25,7 +25,7 @@ It takes the text files from different folders set in the config files and check
 It creats a SQL database from cleaned text including original text, cleaned text (all_text), lemmatized text that will be enventually used for LDA and finally decoded keywords.
 
 
-### 3. Param Search ###
+### 3. Number of Topics Search (*Param Search*) ###
 
 It runs multiple LDA with the range of different number of topics in parallel then coherence value of each model is calculated as a metric to find the best optimal model.
  
