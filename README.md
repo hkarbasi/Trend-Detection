@@ -2,7 +2,7 @@ Trend-Detection
 ===============
 
 
-This project is to find topics and temporal trends in a corpus using **LDA** and **Cox-Stuart** trend test. It is a scalable and parallel framework and it can be used for large dataset as well. 
+This project is to find topics and temporal trends in a corpus using **LDA** and **Cox-Stuart** trend test. It is a scalable and parallel framework and it can be used for large datasets as well. 
 
 The entire work has been broken down to 7 python notebooks as following:
 
@@ -65,7 +65,7 @@ Due to the intensity of the computation for large dataset, this notebook calcula
  * Calculates trend using Cox-Stuart test with 95% confidence.
  * Plots increasing/decreasing trends
  
-This project has been used on StackExchange and Reddit dataset. You can find more explaination on the PDF.
+This project has been used on StackExchange and Reddit dataset. You can find more explaination in the PDF.
 The available notebooks are the result of Reddit.
 Both datasets are four years of data; (*1 Jan 2015- 1 Jan 2019*), 
  * Smaller one is StackExchange (DataScience)
