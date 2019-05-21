@@ -64,7 +64,16 @@ Due to the intensity of the computation for large dataset, this notebook calcula
  * Plots the temporal graph of topics in terms of number of dominant topic and proportional weight per time unit(*daily, weekly* and *monthly*)
  * Calculates trend using Cox-Stuart test with 95% confidence.
  * Plots increasing/decreasing trends
- 
+
+
+There are two ways to change the parameters: 
+
+1. Config file
+2. Arguments passed when calling the notebook
+
+Config file is for default value but if you would like to override the default value, that specific paramter should be passed to the file when calling the notebook.
+
+
 This project has been used on StackExchange and Reddit dataset. You can find more explaination in the PDF.
 The available notebooks are the result of Reddit.
 Both datasets are four years of data; (*1 Jan 2015- 1 Jan 2019*), 
