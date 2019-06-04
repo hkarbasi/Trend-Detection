@@ -14,7 +14,7 @@ It takes the text files from different folders set in the config files and check
   * It filters the data based on the date range set in config.
   * With the set of cleaning rules set in config, the text are cleaned.
   * Unigrams of the text are constructed.
-  * Porter stemmping is applied.
+  * Porter stemming is applied.
   * Using the tags set in config, words that are very common in the dataset are encrypted not be tampered with for the rest of the process.
   * Bigrams of the cleaned texts are constructed.
   * Lemmatization (Noun, Verb, Adj and Adv) are used to remove less meaningful words.
